@@ -1,0 +1,30 @@
+.showcase-notice {
+  padding: 14px 20px;
+  margin: 0 0 22px;
+  border: 1px solid rgba(33, 136, 245, .2);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, .7);
+  color: #365a83;
+  font-size: 13px;
+  line-height: 1.7;
+}
+.sample-result { min-width: 0; margin: 20px 0; }
+.sample-blade { display: block; width: 100%; max-height: 360px; }
+.demo-caption { text-align: center; }
+.sample-table-scroll { overflow-x: auto; }
+.workflow-block label { display: block; margin-bottom: 12px; }
+.workflow-block .dash-dropdown { margin-bottom: 16px; }
+.panel-title-row { gap: 16px; }
+@media (max-width: 600px) {
+  .floating-pill-nav .nav-brand { display: none; }
+  .floating-pill-nav { padding: 10px; }
+  .pill-nav-links { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; }
+  .pill-nav-link { min-width: 0; padding: 10px 3px; font-size: 11px; gap: 4px; justify-content: center; }
+  .main-content-view { padding-top: 90px; }
+  .panel-title-row { align-items: flex-start; flex-direction: column; }
+  .segmented-control { flex-wrap: wrap; }
+  .segmented-button { white-space: normal; }
+  .showcase-notice { font-size: 12px; padding: 12px; }
+  .workflow-block { min-width: 0; }
+  .task-table { min-width: 560px; }
+}

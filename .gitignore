@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+artifacts/
+.env*
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+*.npz
+*.csv
+*.sqlite*
+*.db

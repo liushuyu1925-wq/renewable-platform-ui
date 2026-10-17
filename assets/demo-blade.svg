@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-label="Illustrative blade schematic, not a detection result">
+  <rect width="1000" height="380" rx="20" fill="#eef5fd"/>
+  <path d="M100 240 C240 110 610 100 900 160 C690 200 420 255 100 240Z" fill="#d7e4f1" stroke="#7899bd" stroke-width="3"/>
+  <path d="M110 236 Q460 165 890 161" fill="none" stroke="#a4bad0" stroke-width="2"/>
+  <rect x="455" y="143" width="100" height="76" rx="5" stroke="#2188f5" stroke-dasharray="9 6" stroke-width="3" fill="none"/>
+  <text x="50" y="50" font-family="sans-serif" font-size="20" fill="#46668c">ILLUSTRATION ONLY / NO MODEL OUTPUT</text>
+  <text x="455" y="132" font-family="sans-serif" font-size="16" fill="#2188f5">Example box</text>
+</svg>
